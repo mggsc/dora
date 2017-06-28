@@ -1,3 +1,5 @@
+Part 1 : String Generator 
+
     #include <iostream>
     #include <fstream> 
     #include <string>
